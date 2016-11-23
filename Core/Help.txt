@@ -1,2 +1,2 @@
 here is the core file of this framework，
-这里存放的是core文件，实体类等放在此处（可用作者提供的代码生成器生成实体类，地址：）
+这里存放的是core文件，实体类等放在此处（可用作者提供的代码生成器生成实体类，地址：https://github.com/s290305915/SucLib-CodeGeneration）
